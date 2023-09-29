@@ -1,0 +1,7 @@
+.vs/
+ReservationAPI.Adapter/bin/
+ReservationAPI.Adapter/obj/
+ReservationAPI.Ports/bin/
+ReservationAPI.Ports/obj/
+ReservationAPI/bin/
+ReservationAPI/obj/
